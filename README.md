@@ -1,2 +1,2 @@
 # ES-SE
-Repositório onde armazeno meus projetos ao longo do curso de Engenharia de Software (PUC-MG)
+Este repositório é onde guardo todos os projetos e exercícios que venho desenvolvendo durante o curso de Engenharia de Software. Funciona como um portfólio das minhas habilidades, cobrindo várias áreas da computação e mostrando minha evolução ao longo da graduação.
